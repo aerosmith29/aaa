@@ -9,11 +9,11 @@ rm -rf /etc/systemd/system/edu-proxy.service
 rm -rf /etc/systemd/system/ws-dropbear.service
 rm -rf /etc/systemd/system/edu-proxyovpn
 
-curl "https://raw.githubusercontent.com/kanghory/VPN/main/Insshws/insshws.sh" | bash
+curl "https://raw.githubusercontent.com/aerosmith29/aaa/main/Insshws/insshws.sh" | bash
 
 
 
-wget -O /usr/local/bin/edu-proxy https://raw.githubusercontent.com/kanghory/websocket/main/openssh.py && chmod +x /usr/local/bin/edu-proxy
+wget -O /usr/local/bin/edu-proxy https://raw.githubusercontent.com/aerosmith29/websocket/main/openssh.py && chmod +x /usr/local/bin/edu-proxy
 
 wget -O /etc/systemd/system/edu-proxy.service https://gitlab.com/hidessh/baru/-/raw/main/websocket-python/baru/http.service && chmod +x /etc/systemd/system/edu-proxy.service
 

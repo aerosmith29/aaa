@@ -23,7 +23,7 @@ echo $chat_id > /root/id
 
 echo -e "${GREEN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
 
-echo -e "${LIGHT}           SCRIPT CREDIT BY kanghoryVPN"
+echo -e "${LIGHT}           SCRIPT CREDIT BY aerosmith29VPN"
 
 echo -e "${GREEN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
 

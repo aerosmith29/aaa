@@ -94,7 +94,7 @@ Option9 () {
 
 Option10 () {
     clear
-    wget https://raw.githubusercontent.com/kanghory/VPN/main/autoscript-ssh-slowdns-main/install
+    wget https://raw.githubusercontent.com/aerosmith29/aaa/main/autoscript-ssh-slowdns-main/install
     chmod +x install
     bash install
 }
