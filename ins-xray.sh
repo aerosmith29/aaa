@@ -2,7 +2,7 @@
 # =========================================
 # Quick Setup | Script Setup Manager
 # Edition : Stable Edition V1.0
-# Auther  : kang hory
+# Auther  : aerosmith
 # (C) Copyright 2022
 # =========================================
 # // Export Color & Information
