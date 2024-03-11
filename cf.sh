@@ -5,10 +5,10 @@ MYIP=$(wget -qO- ipinfo.io/ip);
 clear
 apt install jq curl -y
 sub=$(</dev/urandom tr -dc a-z | head -c4)
-DOMAIN=vvip-aerosmith29.my.id
-SUB_DOMAIN=${sub}.vvip-aerosmith29.my.id
-CF_ID=bukhorimukhammad@gmail.com
-CF_KEY=bd06fd9e8a01b73d24db51c4c6584d9133b3e
+DOMAIN=revalina.my.id
+SUB_DOMAIN=${sub}.revaliba.my.id
+CF_ID=aero.smith@live.com
+CF_KEY=62a3f250d9a0dd8debb5d401bb31a1386ddd4
 set -euo pipefail
 IP=$(curl -sS ifconfig.me);
 echo "Updating DNS for ${SUB_DOMAIN}..."
