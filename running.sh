@@ -316,7 +316,7 @@ kernelku=$(uname -r)
 Domen="$(cat /etc/xray/domain)"
 echo -e ""
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
-echo -e "\E[44;1;39m            ⇱ KANG HORY VPN TUNNELING ⇲           \E[0m"
+echo -e "\E[44;1;39m            ⇱ AEROSMITH VPN TUNNELING ⇲           \E[0m"
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
 echo -e "❇️ Hostname    : $HOSTNAME"
 echo -e "❇️ OS Name     : $Tipe"
