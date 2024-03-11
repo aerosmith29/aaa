@@ -1,5 +1,5 @@
 #!/bin/bash
-# // script credit by kang hory
+# // script credit by aerosmith
 # // ini adalah script autoinstall ssh multiport untuk instalasi vpn server dan tunneling service
 MYIP=$(curl -sS ipv4.icanhazip.com)
 red='\e[1;31m'
