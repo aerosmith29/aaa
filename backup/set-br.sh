@@ -38,7 +38,7 @@ port 587
 auth on
 user bckupvpns@gmail.com
 from bckupvpns@gmail.com
-password Yangbaru1 
+password Yangbar
 logfile ~/.msmtp.log
 EOF
 chown -R www-data:www-data /etc/msmtprc
